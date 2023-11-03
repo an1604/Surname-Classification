@@ -443,7 +443,7 @@ try:
     
     print('Done!')
     
-    print('Starting the training foreacg batch...')
+    print('Starting the training foreach batch...')
     for batch_index, batch_dict in enumerate(batch_generator):
         # the training routine is these 5 steps:
         
